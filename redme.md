@@ -93,15 +93,18 @@
             <h3 class="w3-padding-16 w3-text-light-grey">My Skills</h3>
             <p class="w3-wide">Backend Development</p>
             <div class="w3-white">
-                <div class="w3-dark-grey" style="height:28px;width:100%"></div>
+                <div class="w3-dark-grey" style="height:28px;width:100%;text-align: center;vertical-align: middle;">100%
+                </div>
             </div>
             <p class="w3-wide">Web Design</p>
             <div class="w3-white">
-                <div class="w3-dark-grey" style="height:28px;width:85%"></div>
+                <div class="w3-dark-grey" style="height:28px;width:85%;text-align: center;vertical-align: middle;">85%
+                </div>
             </div>
             <p class="w3-wide">Cloud Computing</p>
             <div class="w3-white">
-                <div class="w3-dark-grey" style="height:28px;width:85%"></div>
+                <div class="w3-dark-grey" style="height:28px;width:85%;text-align: center;vertical-align: middle;">85%
+                </div>
             </div><br>
 
             <div class="w3-row w3-center w3-padding-16 w3-section w3-light-grey">
