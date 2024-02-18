@@ -78,7 +78,7 @@
     <div class="w3-padding-large" id="main">
         <!-- Header/Home -->
         <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
-            <h1 class="w3-jumbo"><span class="w3-hide-small">I'm</span> Injamamul Hoque.</h1>
+            <h1 class="w3-jumbo w3-center"><span class="w3-hide-small">I'm</span> Injamamul Hoque.</h1>
             <p>Web Developer.</p>
             <img src="/images.jpg" alt="boy" class="w3-image" width="992" height="1108">
         </header>
